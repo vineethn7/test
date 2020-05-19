@@ -6,7 +6,7 @@ int max[100][100];
 int alloc[100][100];
 int need[100][100];
 int avail[100];
-int n,r;
+
 void input();
 void show();
 void cal();
